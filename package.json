@@ -1,0 +1,33 @@
+{
+  "name": "cl-tick-tac-toe",
+  "version": "1.0.0",
+  "description": "command Line Tick-Tack-Toe game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theenderweggin/CL-Tick-Tac-Toe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theenderweggin/CL-Tick-Tac-Toe/issues"
+  },
+  "homepage": "https://github.com/theenderweggin/CL-Tick-Tac-Toe#readme",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "clear": "^0.0.1",
+    "clui": "^0.3.6",
+    "figlet": "^1.2.0",
+    "github": "^11.0.0",
+    "inquirer": "^3.3.0",
+    "lodash": "^4.17.4",
+    "minimist": "^1.2.0",
+    "preferences": "^0.2.1",
+    "prompt": "^1.0.0",
+    "simple-git": "^1.77.0",
+    "touch": "^3.1.0"
+  }
+}
